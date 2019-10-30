@@ -13,11 +13,11 @@ const configCustom: AppConfigCustom = {
     sampleRate: 100,
   },
   mailClientFeatures: {
-    feedbackEnabled: false,
+    feedbackEnabled: true,
     notificationsEnabled: false,
   },
   indexUsers: {
-    enabled: false,
+    enabled: true,
   }
 };
 
